@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37051'
     url: http://www.gutenberg.org/2009/agents/37051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34478#The-Modern-Ku-Klux-Klan
 gutenberg_issued: '2010-11-29'
 gutenberg_type: Text
 identifiers:
