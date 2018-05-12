@@ -1,0 +1,28 @@
+_repo: The-Modern-Ku-Klux-Klan_34478
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34478-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fry, Henry P. (Henry Peck)
+    alias: Fry, Henry Peck
+    birthdate: 1881
+    deathdate: 1956
+    gutenberg_agent_id: '37051'
+    url: http://www.gutenberg.org/2009/agents/37051
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34478'
+  lccn: '22004267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HS'
+- !lcsh 'Ku Klux Klan (1915- )'
+title: The Modern Ku Klux Klan
+url: http://www.gutenberg.org/ebooks/34478
